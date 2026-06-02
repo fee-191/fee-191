@@ -4,7 +4,7 @@ Security Analyst · Blue Team · Hà Nội
 
 ---
 
-Gần 1 năm làm trong team Security của dự án crypto exchange tại MB Bank — tham gia từ giai đoạn xây dựng hệ thống từ đầu. Công việc chủ yếu là security research, viết tài liệu kỹ thuật, xây tool cho dev pipeline và dựng hạ tầng lab SOC.
+Gần 1 năm (09/2025 – 06/2026) làm trong team Security của dự án crypto exchange tại MB Bank — tham gia từ giai đoạn xây dựng hệ thống từ đầu. Công việc chủ yếu là security research, viết tài liệu kỹ thuật, xây tool cho dev pipeline và dựng hạ tầng lab SOC.
 
 Quan tâm đến: detection engineering, security tooling, threat modeling.
 
@@ -29,9 +29,9 @@ Compliance          ATTT Cấp độ 4 · NĐ 356/2025 · ISO 27001
 44 rules · 5 ngôn ngữ · 80 test cases · GitLab CI + GitHub Actions pipeline
 
 **[cex-incident-research](https://github.com/fee-191/cex-incident-research)** — Phân tích kỹ thuật các vụ hack lớn trong ngành CEX  
-Bybit ($1.5B) · Mixin ($200M) · Upbit ($50M) · Kill chain + MITRE ATT&CK + Controls
+Bybit ($1.5B, 2025) · Mixin ($200M, 2023) · Upbit ($50M, 2019) · Kill chain + MITRE ATT&CK
 
-**[lynxguard](https://github.com/fee-191/lynxguard)** — SOC platform cho web application (đồ án tốt nghiệp FPT 2024)  
+**[lynxguard](https://github.com/fee-191/lynxguard)** — SOC platform cho web application (đồ án tốt nghiệp FPT, IAP491, 2024)  
 Wazuh · Snort · ModSecurity · pfSense · Zabbix · [Demo video](https://github.com/fee-191/lynxguard/releases/download/v1.0/lynxguard-demo.mp4)
 
 ---
