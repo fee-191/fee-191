@@ -36,4 +36,15 @@ Wazuh · Snort · ModSecurity · pfSense · Zabbix · [Demo video](https://githu
 
 ---
 
+**[wazuh-cex-rules](https://github.com/fee-191/wazuh-cex-rules)** — Custom Wazuh detection rules cho CEX  
+11 rules · MITRE ATT&CK · Bybit · Mixin · Ronin · Upbit · KuCoin patterns
+
+**[openvpn-docker](https://github.com/fee-191/openvpn-docker)** — OpenVPN server trên Docker  
+Docker Compose + Makefile · Homelab & remote access
+
+**[comatnhi-bot](https://github.com/fee-191/comatnhi-bot)** — Discord bot đa năng  
+Music · Filters · Mini-game · discord.py + yt-dlp
+
+---
+
 📧 phildhe160155@gmail.com
