@@ -25,8 +25,8 @@ Compliance          ATTT Cấp độ 4 · NĐ 356/2025 · ISO 27001
 
 ### Projects
 
-**[security-template](https://github.com/fee-191/security-template)** — Bộ Semgrep rules tùy chỉnh cho crypto exchange (CEX)  
-44 rules · 5 ngôn ngữ · 80 test cases · GitLab CI + GitHub Actions pipeline
+**[security-template](https://github.com/fee-191/security-template)** — Custom Semgrep rules cho crypto exchange (CEX)  
+Phủ 5 ngôn ngữ (Python, JS/TS, Kotlin, Swift, Java) · GitLab CI + GitHub Actions pipeline · actively maintained
 
 **[cex-incident-research](https://github.com/fee-191/cex-incident-research)** — Phân tích kỹ thuật các vụ hack lớn trong ngành CEX  
 Bybit ($1.5B, 2025) · Mixin ($200M, 2023) · Upbit ($50M, 2019) · Kill chain + MITRE ATT&CK
