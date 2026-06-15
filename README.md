@@ -1,10 +1,10 @@
 ## Lê Dương Phi
 
-Security Analyst · Blue Team · Hà Nội
+Security Engineer · Blue Team / SOC · Hà Nội
 
 ---
 
-9 tháng (09/2025 – 06/2026) làm trong team Security của dự án crypto exchange tại MB Bank — tham gia từ giai đoạn xây dựng hệ thống từ đầu. Công việc chủ yếu là security research, viết tài liệu kỹ thuật, xây tool cho dev pipeline và dựng hạ tầng lab SOC.
+9 tháng (09/2025 – 06/2026) làm trong team Internal Security của một dự án crypto exchange thuộc một ngân hàng lớn tại VN — tham gia từ giai đoạn xây dựng hệ thống từ đầu. Công việc chủ yếu là security research, viết tài liệu kỹ thuật, xây tool cho dev pipeline và dựng hạ tầng lab SOC.
 
 Quan tâm đến: detection engineering, security tooling, threat modeling.
 
