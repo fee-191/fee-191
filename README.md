@@ -1,54 +1,46 @@
 ## Lê Dương Phi
 
-Security Engineer · Blue Team / SOC · Hà Nội
+**Security Engineer · Blue Team / AppSec / DevSecOps · Hà Nội**
 
----
+Mình làm an toàn thông tin, nghiêng về phía phòng thủ. Gần đây nhất (09/2025–06/2026) mình ở team Internal Security của một dự án sàn giao dịch tài sản số thuộc một ngân hàng lớn tại VN, tham gia từ lúc hệ thống còn là con số 0 — phần lớn thời gian làm security research, viết tài liệu kỹ thuật, làm tool gắn vào pipeline của dev và dựng lab SOC.
 
-9 tháng (09/2025 – 06/2026) làm trong team Internal Security của một dự án crypto exchange thuộc một ngân hàng lớn tại VN — tham gia từ giai đoạn xây dựng hệ thống từ đầu. Công việc chủ yếu là security research, viết tài liệu kỹ thuật, xây tool cho dev pipeline và dựng hạ tầng lab SOC.
+Thứ mình thích nhất là **detection engineering, security tooling và threat modeling** — hiểu cách một cuộc tấn công diễn ra rồi tìm cách phát hiện, chặn nó từ sớm. Đang học thêm mỗi ngày.
 
-Quan tâm đến: detection engineering, security tooling, threat modeling.
-
----
-
-### Stack
+### Hay làm việc với
 
 ```
-SIEM & Detection    Wazuh · Snort IDS · Zabbix · SPAN port
+SIEM & Detection    Wazuh · Snort IDS · Zabbix
 DevSecOps           Semgrep (custom rules) · GitLab CI · GitHub Actions
-Infrastructure      Proxmox · pfSense · Linux · Docker
-AI for Security     Claude API · OWASP LLM Top 10 · MITRE ATLAS
+Hạ tầng             Proxmox · pfSense · Linux · Docker
+AI for Security     OWASP LLM Top 10 · MITRE ATLAS
 Scripting           Python · Bash
-Compliance          ATTT Cấp độ 4 · NĐ 356/2025 · ISO 27001
+Compliance          ISO 27001 · ATTT Cấp độ 4 · NĐ 356/2025
 ```
 
----
+### Một vài thứ mình đã làm
 
-### Projects
+**[security-notes](https://github.com/fee-191/security-notes)** — Sổ tay An toàn thông tin (tiếng Việt)
+17 chương, từ nền tảng tới từng mảng chuyên môn · [đọc online](https://fee-191.github.io/security-notes/)
 
-**[security-template](https://github.com/fee-191/security-template)** — Custom Semgrep rules cho crypto exchange (CEX)  
-Phủ 5 ngôn ngữ (Python, JS/TS, Kotlin, Swift, Java) · GitLab CI + GitHub Actions pipeline · actively maintained
+**[security-template](https://github.com/fee-191/security-template)** — Framework DevSecOps tái sử dụng
+Custom Semgrep rules (5 ngôn ngữ) · GitLab CI + GitHub Actions · AI code review
 
-**[cex-incident-research](https://github.com/fee-191/cex-incident-research)** — Phân tích kỹ thuật các vụ hack lớn trong ngành CEX  
-Bybit ($1.5B, 2025) · Mixin ($200M, 2023) · Upbit ($50M, 2019) · Kill chain + MITRE ATT&CK
+**[cex-incident-research](https://github.com/fee-191/cex-incident-research)** — Phân tích kỹ thuật các vụ hack sàn lớn
+Bybit ($1.5B, 2025) · Mixin ($200M, 2023) · Upbit · kill chain + MITRE ATT&CK
 
-**[lynxguard](https://github.com/fee-191/lynxguard)** — SOC platform cho web application (đồ án tốt nghiệp FPT, IAP491, 2024)  
-Wazuh · Snort · ModSecurity · pfSense · Zabbix · [Demo video](https://github.com/fee-191/lynxguard/releases/download/v1.0/lynxguard-demo.mp4)
+**[wazuh-cex-rules](https://github.com/fee-191/wazuh-cex-rules)** — Custom Wazuh detection rules
+11 rules theo MITRE ATT&CK · dựa trên các vụ Bybit, Mixin, Ronin, Upbit, KuCoin
 
----
+**[lynxguard](https://github.com/fee-191/lynxguard)** — SOC platform cho web app (đồ án tốt nghiệp FPT, 2024)
+Wazuh · Snort · ModSecurity · pfSense · Zabbix · [demo video](https://github.com/fee-191/lynxguard/releases/download/v1.0/lynxguard-demo.mp4)
 
-**[wazuh-cex-rules](https://github.com/fee-191/wazuh-cex-rules)** — Custom Wazuh detection rules cho CEX  
-11 rules · MITRE ATT&CK · Bybit · Mixin · Ronin · Upbit · KuCoin patterns
+<details>
+<summary>Vài project cá nhân khác</summary>
 
----
-
-### Personal
-
-**[openvpn-docker](https://github.com/fee-191/openvpn-docker)** — OpenVPN server trên Docker  
-Docker Compose + Makefile · Homelab & remote access
-
-**[comatnhi-bot](https://github.com/fee-191/comatnhi-bot)** — Discord bot đa năng  
-Music · Filters · Mini-game · discord.py + yt-dlp
+**[openvpn-docker](https://github.com/fee-191/openvpn-docker)** — OpenVPN trên Docker cho homelab & remote access
+**[comatnhi-bot](https://github.com/fee-191/comatnhi-bot)** — Discord bot (nhạc, filter, mini-game)
+</details>
 
 ---
 
-📧 phildhe160155@gmail.com
+📧 phildhe160155@gmail.com · [LinkedIn](https://linkedin.com/in/leduongphi191)
